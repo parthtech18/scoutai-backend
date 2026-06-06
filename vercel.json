@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/predict.js": { "runtime": "nodejs18.x" },
+    "api/scores.js": { "runtime": "nodejs18.x" }
+  }
+}
